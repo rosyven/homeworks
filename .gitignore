@@ -27,3 +27,6 @@ hs_err_pid*
 /CarDriverClasses/nbproject/private/
 /CarDriverClasses/build/
 /CarDriverClasses/dist/
+/StringExample/nbproject/private/
+/StringExample/build/
+/StringExample/dist/
