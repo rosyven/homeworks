@@ -22,7 +22,7 @@ public class StringExample {
         {
             System.out.println(name.charAt(i));
         }
-        //получение части строки, напрмер, все символы между вторым и четвертым
+        //получение части строки, например, все символы между вторым и четвертым
         if(n >= 4)
         {
             String newString = name.substring(1, 3 + 1);

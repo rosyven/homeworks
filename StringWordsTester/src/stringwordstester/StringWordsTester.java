@@ -12,7 +12,9 @@ public class StringWordsTester {
         
         String[] words = text.split(" ");
         int n = words.length;
-        System.out.printf("Вы ввели %d слов", n);
+        System.out.printf("Вы ввели %d слова", n);
+        
+        
     }
     
 }
