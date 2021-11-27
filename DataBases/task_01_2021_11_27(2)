@@ -1,0 +1,6 @@
+insert into User
+   (USER_ID, FIRST_NAME, LAST_NAME)
+values
+   (4, 'Max', 'Sidorov')
+
+   

@@ -1,0 +1,8 @@
+update
+   User
+set
+   FIRST_NAME = 'IVAN'
+   ,LAST_NAME = 'PETROV'
+where
+   User.USER_ID = 3;
+delete from User where USER_ID = 4;

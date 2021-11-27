@@ -1,0 +1,6 @@
+update
+   Admins
+set
+   NAME = 'Admin'
+where
+   Admins.email = 'admin@gmail.com'

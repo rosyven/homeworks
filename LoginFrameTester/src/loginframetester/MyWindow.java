@@ -26,7 +26,7 @@ public class MyWindow extends JFrame {
         btnAction = new JButton("Login");
         this.add(this.btnAction, BorderLayout.SOUTH);
         
-        this.setLayout(new FlowLayout(FlowLayout.CENTER));
+        //this.setLayout(new FlowLayout(FlowLayout.CENTER));
         
     }
 }

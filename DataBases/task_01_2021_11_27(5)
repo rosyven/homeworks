@@ -1,0 +1,4 @@
+insert into Admins
+   (email, pas)
+values
+   ('admin@gmail.com', 'PASsWORD')
